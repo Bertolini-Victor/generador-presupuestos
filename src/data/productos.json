@@ -1,0 +1,772 @@
+[
+	{
+		"id": "58",
+		"categoria": "Frontend",
+		"descripcion": {
+			"es": "Landing Page Estática (HTML/CSS/JS)",
+			"en": "Static Landing Page (HTML/CSS/JS)"
+		},
+		"detalle": {
+			"es": "Página única desarrollada con HTML, CSS y JavaScript puro. Sin frameworks ni dependencias. Incluye secciones de presentación, información de contacto y diseño responsivo. Compatible con hosting gratuito.",
+			"en": "Single-page site built with plain HTML, CSS, and JavaScript. No frameworks or dependencies. Includes presentation sections, contact info, and responsive design. Compatible with free hosting."
+		},
+		"precioBase": 70000,
+		"precioUSD": 140
+	},
+	{
+		"id": "57",
+		"categoria": "Frontend",
+		"descripcion": {
+			"es": "Sitio Web Estático (HTML/CSS/JS)",
+			"en": "Static Website (HTML/CSS/JS)"
+		},
+		"detalle": {
+			"es": "Sitio de varias páginas desarrollado con HTML, CSS y JavaScript puro. Sin frameworks ni dependencias externas. Ideal para organizaciones, laboratorios o instituciones con presupuesto acotado. Fácil de mantener sin conocimientos técnicos.",
+			"en": "Multi-page site built with plain HTML, CSS, and JavaScript. No frameworks or external dependencies. Ideal for organizations, labs, or institutions on a tight budget. Easy to maintain without technical knowledge."
+		},
+		"precioBase": 100000,
+		"precioUSD": 200
+	},
+	{
+		"id": "8",
+		"categoria": "Frontend",
+		"descripcion": {
+			"es": "Animaciones e Interacciones Avanzadas",
+			"en": "Advanced Animations & Interactions"
+		},
+		"detalle": {
+			"es": "Implementación de animaciones con Framer Motion o GSAP: scroll-triggered, transiciones entre páginas y microinteracciones.",
+			"en": "Animation implementation with Framer Motion or GSAP: scroll-triggered effects, page transitions, and micro-interactions."
+		},
+		"precioBase": 120000,
+		"precioUSD": 240
+	},
+	{
+		"id": "4",
+		"categoria": "Frontend",
+		"descripcion": {
+			"es": "Landing Page de Alta Conversión",
+			"en": "High-Conversion Landing Page"
+		},
+		"detalle": {
+			"es": "Diseño y desarrollo de landing page orientada a conversión, con CTA, secciones hero, testimonios y formulario de contacto.",
+			"en": "Design and development of a conversion-focused landing page with CTAs, hero sections, testimonials, and contact form."
+		},
+		"precioBase": 160000,
+		"precioUSD": 320
+	},
+	{
+		"id": "6",
+		"categoria": "Frontend",
+		"descripcion": {
+			"es": "Progressive Web App (PWA)",
+			"en": "Progressive Web App (PWA)"
+		},
+		"detalle": {
+			"es": "Implementación de Service Worker, manifiesto, modo offline, caché de recursos y notificaciones push.",
+			"en": "Service Worker implementation, manifest, offline mode, resource caching, and push notifications."
+		},
+		"precioBase": 300000,
+		"precioUSD": 600
+	},
+	{
+		"id": "1",
+		"categoria": "Frontend",
+		"descripcion": {
+			"es": "Desarrollo de SPA en React",
+			"en": "React SPA Development"
+		},
+		"detalle": {
+			"es": "Desarrollo frontend completo, optimización de rendimiento, diseño responsivo y paso a producción.",
+			"en": "Full frontend development, performance optimization, responsive design, and production deployment."
+		},
+		"precioBase": 420000,
+		"precioUSD": 840
+	},
+	{
+		"id": "7",
+		"categoria": "Frontend",
+		"descripcion": {
+			"es": "E-commerce Frontend",
+			"en": "E-commerce Frontend"
+		},
+		"detalle": {
+			"es": "Catálogo de productos, carrito de compras, filtros, búsqueda, checkout y páginas de confirmación.",
+			"en": "Product catalog, shopping cart, filters, search, checkout, and order confirmation pages."
+		},
+		"precioBase": 480000,
+		"precioUSD": 960
+	},
+	{
+		"id": "2",
+		"categoria": "Frontend",
+		"descripcion": {
+			"es": "Sitio Web en Next.js",
+			"en": "Next.js Website / App"
+		},
+		"detalle": {
+			"es": "Desarrollo con Next.js (App Router o Pages Router), SSR/SSG, optimización de imágenes y rutas dinámicas.",
+			"en": "Next.js development (App Router or Pages Router), SSR/SSG, image optimization, and dynamic routing."
+		},
+		"precioBase": 500000,
+		"precioUSD": 1000
+	},
+	{
+		"id": "5",
+		"categoria": "Frontend",
+		"descripcion": {
+			"es": "Panel de Administración (Dashboard)",
+			"en": "Admin Dashboard / Panel"
+		},
+		"detalle": {
+			"es": "Interfaz de gestión con tablas, gráficos, filtros avanzados, CRUD completo y control de permisos por roles.",
+			"en": "Management interface with tables, charts, advanced filters, full CRUD, and role-based access control."
+		},
+		"precioBase": 600000,
+		"precioUSD": 1200
+	},
+	{
+		"id": "12",
+		"categoria": "Diseño & Branding",
+		"descripcion": {
+			"es": "Wireframes y Prototipado",
+			"en": "Wireframes & Prototyping"
+		},
+		"detalle": {
+			"es": "Flujos de usuario, wireframes de baja y alta fidelidad, prototipo navegable en Figma listo para validación.",
+			"en": "User flows, low and high-fidelity wireframes, and a navigable Figma prototype ready for validation."
+		},
+		"precioBase": 100000,
+		"precioUSD": 200
+	},
+	{
+		"id": "14",
+		"categoria": "Diseño & Branding",
+		"descripcion": {
+			"es": "Diseño Responsivo Avanzado",
+			"en": "Advanced Responsive Design"
+		},
+		"detalle": {
+			"es": "Adaptación de diseño e implementación para mobile, tablet y desktop con breakpoints personalizados y pruebas en dispositivos reales.",
+			"en": "Design adaptation and implementation for mobile, tablet, and desktop with custom breakpoints and real device testing."
+		},
+		"precioBase": 130000,
+		"precioUSD": 260
+	},
+	{
+		"id": "9",
+		"categoria": "Diseño & Branding",
+		"descripcion": {
+			"es": "Diseño UI/UX Minimalista",
+			"en": "Minimalist UI/UX Design"
+		},
+		"detalle": {
+			"es": "Creación de wireframes, prototipos interactivos en Figma y definición de paleta de colores.",
+			"en": "Creation of wireframes, interactive prototypes in Figma, and color palette definition."
+		},
+		"precioBase": 180000,
+		"precioUSD": 360
+	},
+	{
+		"id": "21",
+		"categoria": "Backend & API",
+		"descripcion": {
+			"es": "Envío de Emails Transaccionales",
+			"en": "Transactional Email Integration"
+		},
+		"detalle": {
+			"es": "Configuración de Resend, SendGrid o Nodemailer para envío de emails de confirmación, recuperación de contraseña y notificaciones.",
+			"en": "Setup of Resend, SendGrid, or Nodemailer for confirmation emails, password recovery, and system notifications."
+		},
+		"precioBase": 90000,
+		"precioUSD": 180
+	},
+	{
+		"id": "19",
+		"categoria": "Backend & API",
+		"descripcion": {
+			"es": "Diseño e Implementación de Base de Datos",
+			"en": "Database Design & Implementation"
+		},
+		"detalle": {
+			"es": "Modelado de entidades, definición de relaciones, migraciones y configuración de ORM (Prisma/TypeORM para Node.js o JPA/Hibernate para Spring Boot).",
+			"en": "Entity modeling, relationship definition, migrations, and ORM configuration (Prisma/TypeORM for Node.js or JPA/Hibernate for Spring Boot)."
+		},
+		"precioBase": 180000,
+		"precioUSD": 360
+	},
+	{
+		"id": "55",
+		"categoria": "Backend & API",
+		"descripcion": {
+			"es": "Persistencia con Spring Data JPA + Hibernate",
+			"en": "Persistence with Spring Data JPA + Hibernate"
+		},
+		"detalle": {
+			"es": "Modelado de entidades JPA, relaciones (OneToMany, ManyToMany), repositorios, consultas JPQL/nativas y migraciones con Flyway o Liquibase.",
+			"en": "JPA entity modeling, relationships (OneToMany, ManyToMany), repositories, JPQL/native queries, and migrations with Flyway or Liquibase."
+		},
+		"precioBase": 180000,
+		"precioUSD": 360
+	},
+	{
+		"id": "17",
+		"categoria": "Backend & API",
+		"descripcion": {
+			"es": "Sistema de Autenticación y Roles",
+			"en": "Authentication & Role-based Access"
+		},
+		"detalle": {
+			"es": "Implementación de registro, login, JWT, refresh tokens, OAuth (Google/GitHub) y control de acceso por roles.",
+			"en": "Registration, login, JWT, refresh tokens, OAuth (Google/GitHub), and role-based access control implementation."
+		},
+		"precioBase": 220000,
+		"precioUSD": 440
+	},
+	{
+		"id": "54",
+		"categoria": "Backend & API",
+		"descripcion": {
+			"es": "Autenticación con Spring Security + JWT",
+			"en": "Authentication with Spring Security + JWT"
+		},
+		"detalle": {
+			"es": "Implementación de seguridad con Spring Security: autenticación JWT, refresh tokens, control de acceso por roles (RBAC) y protección de endpoints.",
+			"en": "Security implementation with Spring Security: JWT authentication, refresh tokens, role-based access control (RBAC), and endpoint protection."
+		},
+		"precioBase": 230000,
+		"precioUSD": 460
+	},
+	{
+		"id": "20",
+		"categoria": "Backend & API",
+		"descripcion": {
+			"es": "Integración con CMS Headless",
+			"en": "Headless CMS Integration"
+		},
+		"detalle": {
+			"es": "Configuración e integración de Strapi, Contentful o Sanity como CMS para gestión de contenido sin código.",
+			"en": "Configuration and integration of Strapi, Contentful, or Sanity as a CMS for no-code content management."
+		},
+		"precioBase": 240000,
+		"precioUSD": 480
+	},
+	{
+		"id": "18",
+		"categoria": "Backend & API",
+		"descripcion": {
+			"es": "Integración de Pasarela de Pago",
+			"en": "Payment Gateway Integration"
+		},
+		"detalle": {
+			"es": "Integración con MercadoPago, Stripe o similar: checkout, webhooks, notificaciones y panel de transacciones.",
+			"en": "Integration with MercadoPago, Stripe, or similar: checkout flow, webhooks, notifications, and transaction panel."
+		},
+		"precioBase": 260000,
+		"precioUSD": 520
+	},
+	{
+		"id": "15",
+		"categoria": "Backend & API",
+		"descripcion": {
+			"es": "API REST (Node.js / Express)",
+			"en": "REST API (Node.js / Express)"
+		},
+		"detalle": {
+			"es": "Diseño e implementación de API RESTful con autenticación, validación de datos, manejo de errores y documentación con Swagger.",
+			"en": "Design and implementation of a RESTful API with authentication, data validation, error handling, and Swagger documentation."
+		},
+		"precioBase": 420000,
+		"precioUSD": 840
+	},
+	{
+		"id": "53",
+		"categoria": "Backend & API",
+		"descripcion": {
+			"es": "API REST con Java + Spring Boot",
+			"en": "REST API with Java + Spring Boot"
+		},
+		"detalle": {
+			"es": "Diseño e implementación de API RESTful con Spring Boot: controladores, servicios, DTOs, manejo de excepciones y documentación con Swagger/OpenAPI.",
+			"en": "RESTful API design and implementation with Spring Boot: controllers, services, DTOs, exception handling, and Swagger/OpenAPI documentation."
+		},
+		"precioBase": 440000,
+		"precioUSD": 880
+	},
+	{
+		"id": "16",
+		"categoria": "Backend & API",
+		"descripcion": {
+			"es": "API GraphQL",
+			"en": "GraphQL API"
+		},
+		"detalle": {
+			"es": "Servidor GraphQL con esquemas, resolvers, mutaciones, suscripciones y autenticación integrada.",
+			"en": "GraphQL server with schemas, resolvers, mutations, subscriptions, and integrated authentication."
+		},
+		"precioBase": 480000,
+		"precioUSD": 960
+	},
+	{
+		"id": "56",
+		"categoria": "Backend & API",
+		"descripcion": {
+			"es": "Microservicios con Spring Boot",
+			"en": "Microservices with Spring Boot"
+		},
+		"detalle": {
+			"es": "Arquitectura de microservicios con Spring Boot: comunicación entre servicios (REST/Feign), Spring Cloud Config, service discovery y API Gateway básico.",
+			"en": "Microservices architecture with Spring Boot: inter-service communication (REST/Feign), Spring Cloud Config, service discovery, and basic API Gateway."
+		},
+		"precioBase": 750000,
+		"precioUSD": 1500
+	},
+	{
+		"id": "23",
+		"categoria": "E-commerce & CMS",
+		"descripcion": {
+			"es": "Configuración de Tienda Shopify",
+			"en": "Shopify Store Setup"
+		},
+		"detalle": {
+			"es": "Creación de tienda, personalización de tema, configuración de pasarelas de pago, dominio y políticas del sitio.",
+			"en": "Store creation, theme customization, payment gateway setup, domain configuration, and site policies."
+		},
+		"precioBase": 280000,
+		"precioUSD": 560
+	},
+	{
+		"id": "22",
+		"categoria": "E-commerce & CMS",
+		"descripcion": {
+			"es": "Tienda WordPress + WooCommerce",
+			"en": "WordPress + WooCommerce Store"
+		},
+		"detalle": {
+			"es": "Instalación, configuración, tema personalizado, carga de productos, medios de pago y capacitación básica de uso.",
+			"en": "Installation, configuration, custom theme, product upload, payment methods, and basic usage training."
+		},
+		"precioBase": 360000,
+		"precioUSD": 720
+	},
+	{
+		"id": "24",
+		"categoria": "E-commerce & CMS",
+		"descripcion": {
+			"es": "Blog o Sitio con Strapi CMS",
+			"en": "Blog or Site with Strapi CMS"
+		},
+		"detalle": {
+			"es": "Desarrollo de sitio web o blog con frontend en Next.js conectado a Strapi como backend CMS autogestionable.",
+			"en": "Website or blog with a Next.js frontend connected to Strapi as a self-managed CMS backend."
+		},
+		"precioBase": 380000,
+		"precioUSD": 760
+	},
+	{
+		"id": "28",
+		"categoria": "SEO & Performance",
+		"descripcion": {
+			"es": "Configuración de Analytics (GA4 / Hotjar)",
+			"en": "Analytics Setup (GA4 / Hotjar)"
+		},
+		"detalle": {
+			"es": "Implementación de Google Analytics 4, configuración de eventos personalizados, metas de conversión y mapa de calor con Hotjar.",
+			"en": "Google Analytics 4 implementation, custom events, conversion goals, and heatmap setup with Hotjar."
+		},
+		"precioBase": 55000,
+		"precioUSD": 110
+	},
+	{
+		"id": "25",
+		"categoria": "SEO & Performance",
+		"descripcion": {
+			"es": "Optimización SEO y Sitemap",
+			"en": "SEO Optimization & Sitemap"
+		},
+		"detalle": {
+			"es": "Configuración de metaetiquetas, estructuración de sitemap.xml e indexación inicial.",
+			"en": "Meta tags configuration, sitemap.xml structuring, and initial indexing."
+		},
+		"precioBase": 80000,
+		"precioUSD": 160
+	},
+	{
+		"id": "26",
+		"categoria": "SEO & Performance",
+		"descripcion": {
+			"es": "Auditoría de Rendimiento Web",
+			"en": "Web Performance Audit"
+		},
+		"detalle": {
+			"es": "Análisis con Lighthouse y WebPageTest, identificación de cuellos de botella y entrega de informe con acciones concretas.",
+			"en": "Analysis with Lighthouse and WebPageTest, bottleneck identification, and report delivery with concrete action items."
+		},
+		"precioBase": 100000,
+		"precioUSD": 200
+	},
+	{
+		"id": "27",
+		"categoria": "SEO & Performance",
+		"descripcion": {
+			"es": "Optimización de Core Web Vitals",
+			"en": "Core Web Vitals Optimization"
+		},
+		"detalle": {
+			"es": "Mejora de LCP, CLS e INP mediante lazy loading, optimización de imágenes, code splitting y ajuste de fuentes.",
+			"en": "Improvement of LCP, CLS, and INP through lazy loading, image optimization, code splitting, and font tuning."
+		},
+		"precioBase": 140000,
+		"precioUSD": 280
+	},
+	{
+		"id": "29",
+		"categoria": "SEO & Performance",
+		"descripcion": {
+			"es": "SEO Técnico Avanzado",
+			"en": "Advanced Technical SEO"
+		},
+		"detalle": {
+			"es": "Implementación de datos estructurados (Schema.org), Open Graph, Twitter Cards, canonical tags y auditoría de links internos.",
+			"en": "Structured data (Schema.org), Open Graph, Twitter Cards, canonical tags, and internal link audit implementation."
+		},
+		"precioBase": 140000,
+		"precioUSD": 280
+	},
+	{
+		"id": "59",
+		"categoria": "Infraestructura & DevOps",
+		"descripcion": {
+			"es": "Deploy en Hosting Gratuito (GitHub Pages / Vercel)",
+			"en": "Free Hosting Deployment (GitHub Pages / Vercel)"
+		},
+		"detalle": {
+			"es": "Configuración y publicación del sitio en GitHub Pages o Vercel (plan gratuito). Incluye dominio gratuito provisto por la plataforma, HTTPS automático y guía básica de actualización de contenidos. Sin costo mensual para el cliente.",
+			"en": "Setup and deployment on GitHub Pages or Vercel (free plan). Includes free platform subdomain, automatic HTTPS, and a basic content update guide. Zero monthly cost for the client."
+		},
+		"precioBase": 25000,
+		"precioUSD": 50
+	},
+	{
+		"id": "34",
+		"categoria": "Infraestructura & DevOps",
+		"descripcion": {
+			"es": "Configuración de Variables de Entorno y Secrets",
+			"en": "Environment Variables & Secrets Management"
+		},
+		"detalle": {
+			"es": "Organización y manejo seguro de variables de entorno en todos los ambientes del proyecto.",
+			"en": "Secure organization and management of environment variables across all project environments."
+		},
+		"precioBase": 30000,
+		"precioUSD": 60
+	},
+	{
+		"id": "33",
+		"categoria": "Infraestructura & DevOps",
+		"descripcion": {
+			"es": "Configuración de Dominio, Hosting y SSL",
+			"en": "Domain, Hosting & SSL Setup"
+		},
+		"detalle": {
+			"es": "Gestión del dominio (DNS, registros A/CNAME), elección y configuración del hosting y habilitación de HTTPS.",
+			"en": "Domain management (DNS, A/CNAME records), hosting selection and setup, and HTTPS enabling."
+		},
+		"precioBase": 40000,
+		"precioUSD": 80
+	},
+	{
+		"id": "30",
+		"categoria": "Infraestructura & DevOps",
+		"descripcion": {
+			"es": "Deploy en la Nube (Vercel / Render / AWS)",
+			"en": "Cloud Deployment (Vercel / Render / AWS)"
+		},
+		"detalle": {
+			"es": "Configuración de entornos (producción y staging), variables de entorno, dominio personalizado y certificado SSL.",
+			"en": "Environment configuration (production and staging), environment variables, custom domain, and SSL certificate."
+		},
+		"precioBase": 75000,
+		"precioUSD": 150
+	},
+	{
+		"id": "31",
+		"categoria": "Infraestructura & DevOps",
+		"descripcion": {
+			"es": "Pipeline de CI/CD",
+			"en": "CI/CD Pipeline Setup"
+		},
+		"detalle": {
+			"es": "Configuración de flujo de integración y despliegue continuo con GitHub Actions, testing automatizado y deploy automático.",
+			"en": "Continuous integration and deployment pipeline with GitHub Actions, automated testing, and auto-deploy configuration."
+		},
+		"precioBase": 140000,
+		"precioUSD": 280
+	},
+	{
+		"id": "32",
+		"categoria": "Infraestructura & DevOps",
+		"descripcion": {
+			"es": "Dockerización del Proyecto",
+			"en": "Project Dockerization"
+		},
+		"detalle": {
+			"es": "Creación de Dockerfile, docker-compose para entorno local y configuración de imagen para producción.",
+			"en": "Dockerfile creation, docker-compose for local environment, and production image configuration."
+		},
+		"precioBase": 150000,
+		"precioUSD": 300
+	},
+	{
+		"id": "36",
+		"categoria": "Móvil",
+		"descripcion": {
+			"es": "Publicación en Google Play Store",
+			"en": "Google Play Store Publishing"
+		},
+		"detalle": {
+			"es": "Generación de APK/AAB firmado, configuración de ficha de producto en la Play Store y proceso de revisión inicial.",
+			"en": "Signed APK/AAB generation, Play Store listing configuration, and initial review process management."
+		},
+		"precioBase": 55000,
+		"precioUSD": 110
+	},
+	{
+		"id": "37",
+		"categoria": "Móvil",
+		"descripcion": {
+			"es": "Publicación en Apple App Store",
+			"en": "Apple App Store Publishing"
+		},
+		"detalle": {
+			"es": "Configuración de certificados y perfiles de aprovisionamiento, compilación y envío a revisión en App Store Connect.",
+			"en": "Certificate and provisioning profile setup, build compilation, and submission to App Store Connect review."
+		},
+		"precioBase": 65000,
+		"precioUSD": 130
+	},
+	{
+		"id": "35",
+		"categoria": "Móvil",
+		"descripcion": {
+			"es": "App Móvil en React Native",
+			"en": "React Native Mobile App"
+		},
+		"detalle": {
+			"es": "Desarrollo de aplicación cross-platform para iOS y Android con React Native y Expo, navegación y consumo de API.",
+			"en": "Cross-platform iOS and Android application with React Native and Expo, navigation, and API consumption."
+		},
+		"precioBase": 900000,
+		"precioUSD": 1800
+	},
+	{
+		"id": "40",
+		"categoria": "Soporte & Mantenimiento",
+		"descripcion": {
+			"es": "Corrección de Bugs (por hora)",
+			"en": "Bug Fixing (per hour)"
+		},
+		"detalle": {
+			"es": "Análisis, diagnóstico y resolución de errores o problemas puntuales en proyectos existentes. Se cotiza por hora.",
+			"en": "Analysis, diagnosis, and resolution of specific bugs or issues in existing projects. Billed per hour."
+		},
+		"precioBase": 10000,
+		"precioUSD": 20
+	},
+	{
+		"id": "39",
+		"categoria": "Soporte & Mantenimiento",
+		"descripcion": {
+			"es": "Plan de Mantenimiento Mensual",
+			"en": "Monthly Maintenance Plan"
+		},
+		"detalle": {
+			"es": "Monitoreo del sitio, actualizaciones de dependencias, backups periódicos, correcciones menores y reporte mensual.",
+			"en": "Site monitoring, dependency updates, periodic backups, minor bug fixes, and monthly progress report."
+		},
+		"precioBase": 90000,
+		"precioUSD": 180
+	},
+	{
+		"id": "38",
+		"categoria": "Soporte & Mantenimiento",
+		"descripcion": {
+			"es": "Soporte Bilingüe (ES/EN)",
+			"en": "Bilingual Support (ES/EN)"
+		},
+		"detalle": {
+			"es": "Implementación de arquitectura multilenguaje y selector de idiomas en la interfaz.",
+			"en": "Implementation of multi-language architecture and language toggle in the interface."
+		},
+		"precioBase": 140000,
+		"precioUSD": 280
+	},
+	{
+		"id": "42",
+		"categoria": "Soporte & Mantenimiento",
+		"descripcion": {
+			"es": "Auditoría de Seguridad Web",
+			"en": "Web Security Audit"
+		},
+		"detalle": {
+			"es": "Revisión de vulnerabilidades OWASP Top 10, cabeceras HTTP, autenticación, manejo de sesiones y entrega de informe.",
+			"en": "OWASP Top 10 vulnerability review, HTTP headers, authentication, session management, and report delivery."
+		},
+		"precioBase": 220000,
+		"precioUSD": 440
+	},
+	{
+		"id": "41",
+		"categoria": "Soporte & Mantenimiento",
+		"descripcion": {
+			"es": "Auditoría de Código y Refactoring",
+			"en": "Code Audit & Refactoring"
+		},
+		"detalle": {
+			"es": "Revisión de arquitectura, calidad del código, deuda técnica y refactorización para mejorar escalabilidad y legibilidad.",
+			"en": "Architecture review, code quality analysis, technical debt assessment, and refactoring for scalability and readability."
+		},
+		"precioBase": 260000,
+		"precioUSD": 520
+	},
+	{
+		"id": "43",
+		"categoria": "Consultoría & Capacitación",
+		"descripcion": {
+			"es": "Consultoría Técnica (por hora)",
+			"en": "Technical Consulting (per hour)"
+		},
+		"detalle": {
+			"es": "Asesoramiento técnico sobre arquitectura, tecnologías, decisiones de stack o resolución de problemas complejos. Por hora.",
+			"en": "Technical advisory on architecture, technologies, stack decisions, or complex problem solving. Billed per hour."
+		},
+		"precioBase": 10000,
+		"precioUSD": 20
+	},
+	{
+		"id": "45",
+		"categoria": "Consultoría & Capacitación",
+		"descripcion": {
+			"es": "Capacitación y Onboarding del Sistema",
+			"en": "System Training & Onboarding"
+		},
+		"detalle": {
+			"es": "Sesiones de formación para el equipo cliente sobre el uso del sistema, CMS o panel de administración entregado.",
+			"en": "Training sessions for the client team on system usage, CMS, or delivered admin panel."
+		},
+		"precioBase": 100000,
+		"precioUSD": 200
+	},
+	{
+		"id": "44",
+		"categoria": "Consultoría & Capacitación",
+		"descripcion": {
+			"es": "Documentación Técnica del Proyecto",
+			"en": "Technical Project Documentation"
+		},
+		"detalle": {
+			"es": "Redacción de README, documentación de API, arquitectura del sistema, guías de instalación y flujos del negocio.",
+			"en": "Writing of README, API documentation, system architecture, installation guides, and business flow diagrams."
+		},
+		"precioBase": 110000,
+		"precioUSD": 220
+	},
+	{
+		"id": "47",
+		"categoria": "Consultoría & Capacitación",
+		"descripcion": {
+			"es": "Revisión y Feedback de Proyecto Existente",
+			"en": "Existing Project Review & Feedback"
+		},
+		"detalle": {
+			"es": "Análisis integral del proyecto: UX, performance, código y estrategia. Entrega de informe con recomendaciones priorizadas.",
+			"en": "Comprehensive project analysis: UX, performance, code, and strategy. Prioritized recommendations report delivery."
+		},
+		"precioBase": 110000,
+		"precioUSD": 220
+	},
+	{
+		"id": "46",
+		"categoria": "Consultoría & Capacitación",
+		"descripcion": {
+			"es": "Migración de Contenidos",
+			"en": "Content Migration"
+		},
+		"detalle": {
+			"es": "Relevamiento, limpieza y migración de contenidos desde plataforma anterior hacia el nuevo sistema o CMS.",
+			"en": "Content survey, cleanup, and migration from previous platform to the new system or CMS."
+		},
+		"precioBase": 120000,
+		"precioUSD": 240
+	},
+	{
+		"id": "48",
+		"categoria": "Testing & QA",
+		"descripcion": {
+			"es": "Testing Manual (QA)",
+			"en": "Manual Testing (QA)"
+		},
+		"detalle": {
+			"es": "Pruebas funcionales, de usabilidad y de compatibilidad cross-browser y cross-device. Entrega de reporte de bugs.",
+			"en": "Functional, usability, and cross-browser / cross-device compatibility testing with a bug report delivery."
+		},
+		"precioBase": 130000,
+		"precioUSD": 260
+	},
+	{
+		"id": "49",
+		"categoria": "Testing & QA",
+		"descripcion": {
+			"es": "Tests Automatizados (Unit + E2E)",
+			"en": "Automated Testing (Unit + E2E)"
+		},
+		"detalle": {
+			"es": "Implementación de tests unitarios con Vitest/Jest y tests end-to-end con Playwright o Cypress.",
+			"en": "Unit tests with Vitest/Jest and end-to-end tests with Playwright or Cypress implementation."
+		},
+		"precioBase": 260000,
+		"precioUSD": 520
+	},
+	{
+		"id": "50",
+		"categoria": "Integraciones",
+		"descripcion": {
+			"es": "Integración con API de Terceros",
+			"en": "Third-party API Integration"
+		},
+		"detalle": {
+			"es": "Conexión con APIs externas (redes sociales, servicios de mapas, CRMs, ERPs u otros). Precio por integración.",
+			"en": "Connection with external APIs (social networks, map services, CRMs, ERPs, or others). Price per integration."
+		},
+		"precioBase": 130000,
+		"precioUSD": 260
+	},
+	{
+		"id": "52",
+		"categoria": "Integraciones",
+		"descripcion": {
+			"es": "Chatbot / Widget de Soporte",
+			"en": "Chatbot / Support Widget"
+		},
+		"detalle": {
+			"es": "Integración de chat en vivo o chatbot (Intercom, Crisp, Tidio o solución personalizada con IA).",
+			"en": "Live chat or chatbot integration (Intercom, Crisp, Tidio, or custom AI-powered solution)."
+		},
+		"precioBase": 130000,
+		"precioUSD": 260
+	},
+	{
+		"id": "51",
+		"categoria": "Integraciones",
+		"descripcion": {
+			"es": "Integración con CRM (HubSpot / Salesforce)",
+			"en": "CRM Integration (HubSpot / Salesforce)"
+		},
+		"detalle": {
+			"es": "Sincronización de leads, contactos y eventos desde el sitio web o app hacia el CRM seleccionado.",
+			"en": "Lead, contact, and event synchronization from the website or app to the selected CRM."
+		},
+		"precioBase": 190000,
+		"precioUSD": 380
+	}
+]
